@@ -55,3 +55,45 @@ Atribut id menentukan id unik untuk elemen HTML.Atribut id digunakan untuk menun
 
 ![image](https://github.com/JiRizkyCahyusna/PraktikumWeb1/assets/167959337/8cda8b01-ab0c-45f6-8b35-8ccd350cc5d2)
 
+
+# CSS
+
+CSS adalah bahasa yang kami gunakan untuk menata gaya dokumen HTML.CSS menjelaskan bagaimana elemen HTML harus ditampilkan.Tutorial ini akan mengajarkan Anda CSS dari dasar hingga lanjutan. CSS adalah singkatan dari Cascading Style Sheet. CSS menjelaskan bagaimana elemen HTML ditampilkan di layar, kertas, atau di media lain
+CSS menghemat banyak pekerjaan. Itu dapat mengontrol tata letak beberapa halaman web sekaligus
+Stylesheet eksternal disimpan dalam file CSS
+CSS digunakan untuk menentukan gaya halaman web Anda, termasuk desain, tata letak, dan variasi tampilan untuk berbagai perangkat dan ukuran layar. CSS Memecahkan Masalah Besar HTML TIDAK PERNAH dimaksudkan untuk memuat tag untuk memformat halaman web!
+
+![image](https://github.com/JiRizkyCahyusna/PraktikumWeb1/assets/167959337/995c69ec-3dba-443c-95fa-a5a999ac284b) 
+
+Komentar CSS tidak ditampilkan di browser, namun dapat membantu mendokumentasikan kode sumber Anda. Komentar digunakan untuk menjelaskan kode, dan mungkin membantu ketika Anda mengedit kode sumber di kemudian hari.Komentar diabaikan oleh browser. Komentar CSS ditempatkan di dalam < style >elemen, dimulai  /* dan diakhiri dengan  */: 
+
+![image](https://github.com/JiRizkyCahyusna/PraktikumWeb1/assets/167959337/a833d2ba-325c-4125-9439-16ed688f7b8e) 
+
+![image](https://github.com/JiRizkyCahyusna/PraktikumWeb1/assets/167959337/b0c158cf-d239-45da-bd11-922432e63cc3) 
+
+Pemilihan Font Itu Penting
+Memilih font yang tepat memiliki dampak besar pada pengalaman pembaca terhadap situs web.Font yang tepat dapat menciptakan identitas yang kuat untuk brand Anda.
+Menggunakan font yang mudah dibaca itu penting. Font menambah nilai pada teks Anda. Penting juga untuk memilih warna dan ukuran teks yang tepat untuk font
+
+![image](https://github.com/JiRizkyCahyusna/PraktikumWeb1/assets/167959337/670fb0a8-bc64-4ce8-9e2c-c6b560e1efd2)
+
+
+# JavaScript
+
+JavaScript merupakan suatu bahasa pemrograman yang paling populer dan merupakan bahasa pemrogramman web. Mengapa harus mempelajari JavaScript? Karena JavaScript merupakan salah satu bahasa pemrograman yang wajib dipelajari oleh setiap pengembang web.
+1. HTML untuk mendefinisikan konten halaman web
+2. CSS untuk menentukan tata letak halaman web
+3. JavaScript untuk memprogram perilaku halaman web
+JavaScript sendiri dapat mengubah konten dalam HTML.
+
+Operator JavaScript
+JavaScript menggunakan operator aritmatika ( + - * /) untuk menghitung nilai. JavaScript menggunakan operator penugasan ( =) untuk menetapkan nilai ke variabel.
+Ekspresi JavaScript
+Ekspresi adalah kombinasi nilai, variabel, dan operator, yang menghitung suatu nilai.Perhitungannya disebut evaluasi.
+Misalnya, 5 * 10 bernilai 50
+
+![image](https://github.com/JiRizkyCahyusna/PraktikumWeb1/assets/167959337/f187ab30-a205-4129-9d18-9cce3e973cb3)
+
+![image](https://github.com/JiRizkyCahyusna/PraktikumWeb1/assets/167959337/44f6e679-e68a-49a1-b6e9-efc4a404257f)
+
+
